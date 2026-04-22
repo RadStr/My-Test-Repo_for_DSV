@@ -1,0 +1,24 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/cca57d11-53b4-4fb5-b8e4-0209aac064b4",
+  "projectIri": "356e08d0-112b-4587-b323-f6df9a4b820b",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "RaSt"
+    },
+    "description": {
+      "en": "This specification defines terms needed to describe application profiles,"
+    },
+    "importedFromUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/",
+    "documentBaseUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/"
+  },
+  "metadata": {
+    "creationDate": "2026-04-22T07:21:09.823Z",
+    "modificationDate": "2026-04-22T07:23:16.584Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
